@@ -92,4 +92,5 @@ btnHold.addEventListener('click', function () {
   }
 });
 
+// Init the game
 btnNew.addEventListener('click', init);
